@@ -5,3 +5,18 @@ javascript & jQuery로 제어(이벤트,애니메이션...)를 한다.
 
 WEBAPP : jQuery Mobile, React, Vue.js
 
+React 공부하기
+Vue.js 공부하기
+node.js 공부하기
+cordova 공부하기
+phonegap 공부하기
+
+
+
+PHP 공부하기
+mysql 공부하기
+git 공부하기
+java 공부하기
+jsp 공부하기
+
+
